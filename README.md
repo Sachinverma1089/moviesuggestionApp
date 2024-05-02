@@ -1,7 +1,8 @@
 # movieapp
 
 A new Flutter project created with FlutLab - https://flutlab.io
-Test: https://flutlab.io/editor/5996569c-c332-47eb-887a-8ab3d88d2af0
+
+AppLink: https://flutlab.io/editor/5996569c-c332-47eb-887a-8ab3d88d2af0
 
 ## Getting Started
 
